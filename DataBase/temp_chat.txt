@@ -1,0 +1,20 @@
+
+You : your name
+Reply : My name is Marco and I am a personal desktop assistant of the Government College of Engineering Chandrapur. It's nice to meet you, Nilesh!
+You : scholarship form
+Reply : The process for filling up the Mahadbt scholarship form is as follows: 
+ 
+1. Registration: Provide basic details such as name, date of birth, email ID, and mobile number. 
+ 
+2. Login: Login to your account on the Mahadbt scholarship portal using your login ID and password. 
+ 
+3. Personal and academic details: Fill in personal details such as name, address, contact details, and academic details. 
+
+4. Upload documents: Upload required documents such as Aadhaar card, caste certificate, income certificate, and mark sheets. 
+
+5. Select Scholarship Scheme: Select the scholarship scheme that you are eligible for and want to apply for.
+
+6. Final submission: Review the application form and make sure all the information provided is correct. Click on the submit button to complete the application process. 
+Application status: After submitting the application, you can check the status of your application on the Mahad
+You : automatic grow
+Reply : I'm sorry, I don't understand what you mean by "automatic grow". Could you please explain it in more detail?
